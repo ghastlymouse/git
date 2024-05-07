@@ -1,1 +1,16 @@
-안녕하세요
+1 cycle :
+git init
+=> git clone
+=> git pull
+=> git status (unstage area)
+=> git add
+=> git status 
+=> git commit -m " " (staging area)
+=> git lg
+=> git push (remote repository)
+=> create pull request
+=> merge
+=> delete remote branch
+=> git switch main
+=> git branch
+=> git branch -d branch name
