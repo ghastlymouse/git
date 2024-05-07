@@ -2,11 +2,11 @@
 git init
 => git switch -c branch name
 => git clone
-=> git pull
+=> git pull 
 => git status (unstage area)
-=> git add
+=> git add  (staging area)
 => git status 
-=> git commit -m " " (staging area)
+=> git commit -m " " (remote repository)
 => git lg
 => git push (remote repository)
 => create pull request
