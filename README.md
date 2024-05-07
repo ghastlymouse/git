@@ -23,8 +23,18 @@
 - 대표적으로 깃헙(Github)이 있다.
 
 #### 원격 저장소 사용 관련한 명령어
-git remote add origin(원격 저장소의 별명) https://github.com/ghastlymouse/git.git(원격 저장소의 주소)
 
+```
+git remote add origin(원격 저장소의 별명) https://github.com/ghastlymouse/git.git(원격 저장소의 주소)
+```
+
+```
+git push origin main
+```
+
+```
+git push -u origin main
+```
 
 ## Git 명령어 정리
 
