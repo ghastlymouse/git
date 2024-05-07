@@ -1,5 +1,6 @@
 1 cycle :
 git init
+=> git switch -c branch name
 => git clone
 => git pull
 => git status (unstage area)
