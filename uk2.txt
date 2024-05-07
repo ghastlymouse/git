@@ -2,6 +2,7 @@
 git init
 => git switch -c branch name
 => git clone
+=> develope
 => git pull 
 => git status (unstage area)
 => git add  (staging area)
